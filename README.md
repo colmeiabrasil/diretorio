@@ -6,15 +6,6 @@ Iniciativas de fora da Colmeia que ajudam na conversa e na mobilização. A Colm
 
 **[Onde dá pra conversar](https://www.ondedapraconversar.com.br/)** mostra onde, perto de você, há gente que pode escolher Lula no 2º turno.
 
-- Digite um endereço, use sua localização ou toque no mapa para ver os locais de votação a até 1 km.
-- Cada local mostra o resultado de Lula e quantos votos foram brancos, nulos ou abstenções, segundo os boletins de urna do TSE.
-- Destaca os locais onde a disputa está apertada, porque é lá que a conversa rende mais.
-- Marque “Vou conversar por aqui” para dividir as ruas com outras pessoas e não repetir o mesmo quarteirão.
-- A aba **O que fazer** ensina a montar um grupo de WhatsApp do bairro e combinar dia, hora e lugar.
-
-Para usar junto com a Colmeia: escolha os locais no Onde dá pra conversar e organize a saída no grupo da sua célula.
-No dia da votação não aborde eleitores.
-
 ## Mobilização
 
 - **[Vira Voto 13](https://flow.page/viravoto)**: links para grupos de mobilização no Telegram (estaduais e temáticos) e TikTok.
