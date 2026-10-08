@@ -28,6 +28,11 @@ Iniciativas de fora da Colmeia que ajudam na conversa e na mobilização. A Colm
 
 - **[Lula × Flávio por município](https://ミ.xyz/dataviz/eleicoes/?eleicao=presidente-2026)**: mapa do 1º turno de 2026 por município, incluindo os 703 que trocaram de lado desde 2022.
 
+## Projeto chatGPT
+
+- **[Analisador de eleições](https://chatgpt.com/g/g-p-6ac4eeae5ed48191aede7a70e6e4b930-analisador-de-eleicoes/project)**: Projeto que permite que o usua´rio do chatGPT faça perguntas abertas usando como referência as bases com dados de eleições que estão disponíveis no projeto. Atualmente há dados prinicipalmente no nível municipal do primeiro turno de 2022 e 2026
+
+
 ## Canais oficiais
 
 - **[Site da campanha de Lula](https://lula.com.br/)**: reúne os grupos oficiais de WhatsApp da campanha.
