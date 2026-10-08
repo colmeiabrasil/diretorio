@@ -1,7 +1,5 @@
 # Como contribuir
 
-Abra um Pull Request editando o `README.md`.
-
-- Um item por iniciativa: **[Nome](https://link)**, seguido do que ela faz em uma frase.
-- Coloque o item na seção que mais combina, ou proponha uma seção nova.
-- Só iniciativas públicas e links oficiais. Nada de dados pessoais nem links para grupos de WhatsApp ou Telegram.
+O catálogo agora fica em `diretorio/README.md` da [wiki](https://github.com/colmeiabrasil/wiki).
+Siga o [guia de contribuição](https://github.com/colmeiabrasil/wiki/blob/main/diretorio/CONTRIBUTING.md)
+e abra seu Pull Request nesse repositório.
