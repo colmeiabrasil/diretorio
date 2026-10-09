@@ -18,6 +18,7 @@ Compilado de iniciativas externas que ajudam na conversa e na mobilização.
 
 ## Materiais de campanha
 
+- **[Fura Bolha](https://fura-bolha.com/)**: biblioteca de vídeos curtos da eleição 2026, prontos para encaminhar no WhatsApp em um toque ("Recebeu? Repassa"), organizados por tema (trabalhador, mulheres, evangélicos, economia).
 - **[Diretório 13](https://www.diretorio13.com)**: imagens, vídeos, comparativos entre governos, guias para conversar sobre a eleição e onde buscar materiais físicos.
 - **Pastas no Google Drive para baixar e compartilhar:**
   [vídeos verticais](https://drive.google.com/drive/folders/1hJf8O-3ZnyrxDZR0-Lfcdl_PMJr3FBPe?usp=drive_link),
