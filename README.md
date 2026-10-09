@@ -1,6 +1,6 @@
 # Ferramentas e materiais
 
-> O catálogo é mantido agora em [`diretorio/` da Wiki da Colmeia](https://github.com/colmeiabrasil/wiki/tree/main/diretorio), com acesso restrito aos colaboradores. Esta cópia pública é preservada como referência; novas contribuições devem ser feitas na wiki.
+> O catálogo é mantido agora em [`diretorio/` da Wiki da Colmeia](https://github.com/colmeiabrasil/wiki/tree/main/diretorio), agora pública. Esta cópia pública é preservada como referência; novas contribuições devem ser feitas na wiki.
 
 Iniciativas de fora da Colmeia que ajudam na conversa e na mobilização. A Colmeia não mantém esses sites.
 
