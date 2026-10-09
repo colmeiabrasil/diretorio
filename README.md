@@ -41,6 +41,10 @@ Este é o repositório público do diretório. Qualquer pessoa pode ler, baixar 
 
 Veja o [guia de contribuição](CONTRIBUTING.md).
 
+Para colaborar com um agente de IA, copie este prompt:
+
+> Quero colaborar com https://github.com/colmeiabrasil/diretorio. Leia o README, o CONTRIBUTING.md e as instruções para agentes, se houver; examine as issues e os Pull Requests abertos para evitar duplicações. Escolha e implemente uma melhoria pequena e útil, como corrigir um link, esclarecer uma descrição, melhorar a organização ou adicionar um recurso relevante, verificando as fontes e priorizando links oficiais acessíveis sem autenticação. Não invente informações nem inclua dados pessoais, credenciais ou caminhos locais. Trabalhe em uma branch, preserve o banner, respeite a licença, confira o diff e execute as checagens disponíveis. Abra um Pull Request explicando a mudança e sua validação, identifique a assistência de IA e não faça push direto na main nem mescle o PR. Trabalhe apenas neste repositório público, sem acessar a wiki privada; se não conseguir publicar o PR, entregue um patch pronto com instruções para enviá-lo.
+
 ## Reutilização
 
 O conteúdo próprio deste catálogo e o banner estão disponíveis sob [CC0 1.0](LICENSE). Os sites e materiais externos mantêm seus próprios direitos e condições de uso.
