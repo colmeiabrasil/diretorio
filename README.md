@@ -1,16 +1,20 @@
+![Colmeia — Ferramentas e materiais. Recursos para explorar e compartilhar.](assets/banner-recursos.webp)
+
 # Ferramentas e materiais
 
-> O catálogo é mantido agora em [`diretorio/` da Wiki da Colmeia](https://github.com/colmeiabrasil/wiki/tree/main/diretorio), agora pública. Esta cópia pública é preservada como referência; novas contribuições devem ser feitas na wiki.
+Compilado de iniciativas externas que ajudam na conversa e na mobilização.
 
-Iniciativas de fora da Colmeia que ajudam na conversa e na mobilização. A Colmeia não mantém esses sites.
+## Canais oficiais
 
-## Onde conversar
+- **[Site da campanha de Lula](https://lula.com.br/)**: reúne os grupos oficiais de WhatsApp da campanha.
+- **[Canal do Lula no Telegram](https://t.me/LulanoTelegram)**: canal verificado.
+- **[Canal do PT no WhatsApp](https://whatsapp.com/channel/0029Va9GZPM8vd1ThwjXO91d)**: canal oficial do Partido dos Trabalhadores.
+- **[Exército de Lula (WhatsApp)](https://whatsapp.com/channel/0029VbCbRfD7tkj88k3soZ0Y)**: canal de mobilização para o 2º turno.
 
-**[Onde dá pra conversar](https://www.ondedapraconversar.com.br/)** mostra onde, perto de você, há gente que pode escolher Lula no 2º turno.
-
-## Mobilização
+## Mobilização da Sociedade
 
 - **[Vira Voto 13](https://flow.page/viravoto)**: links para grupos de mobilização no Telegram (estaduais e temáticos) e TikTok.
+- **[Onde dá pra conversar](https://www.ondedapraconversar.com.br/)** mostra onde, perto de você, há gente que pode escolher Lula no 2º turno.
 
 ## Materiais de campanha
 
@@ -30,13 +34,13 @@ Iniciativas de fora da Colmeia que ajudam na conversa e na mobilização. A Colm
 
 - **[Lula × Flávio por município](https://ミ.xyz/dataviz/eleicoes/?eleicao=presidente-2026)**: mapa do 1º turno de 2026 por município, incluindo os 703 que trocaram de lado desde 2022.
 
-## Canais oficiais
 
-- **[Site da campanha de Lula](https://lula.com.br/)**: reúne os grupos oficiais de WhatsApp da campanha.
-- **[Canal do Lula no Telegram](https://t.me/LulanoTelegram)**: canal verificado.
-- **[Canal do PT no WhatsApp](https://whatsapp.com/channel/0029Va9GZPM8vd1ThwjXO91d)**: canal oficial do Partido dos Trabalhadores.
-- **[Exército de Lula (WhatsApp)](https://whatsapp.com/channel/0029VbCbRfD7tkj88k3soZ0Y)**: canal de mobilização para o 2º turno.
+## Como contribuir
 
-## Campanha irregular
+Este é o repositório público do diretório. Qualquer pessoa pode ler, baixar e reutilizar o catálogo sem login. Para sugerir recursos ou correções, [abra uma issue](https://github.com/colmeiabrasil/diretorio/issues/new), participe das [discussões](https://github.com/colmeiabrasil/diretorio/discussions) ou envie um Pull Request. Essas contribuições exigem uma conta gratuita no GitHub.
 
-- **[Contas paralelas nas eleições de 2026](https://democraciabr.codeberg.page/eleicoes-2026/)**: auditoria de contas no Instagram que não constam na lista entregue ao TSE.
+Veja o [guia de contribuição](CONTRIBUTING.md).
+
+## Reutilização
+
+O conteúdo próprio deste catálogo e o banner estão disponíveis sob [CC0 1.0](LICENSE). Os sites e materiais externos mantêm seus próprios direitos e condições de uso.
