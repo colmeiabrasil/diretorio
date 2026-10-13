@@ -15,6 +15,17 @@ Compilado de iniciativas externas que ajudam na conversa e na mobilização.
 
 - **[Vira Voto 13](https://flow.page/viravoto)**: links para grupos de mobilização no Telegram (estaduais e temáticos) e TikTok.
 - **[Onde dá pra conversar](https://www.ondedapraconversar.com.br/)** mostra onde, perto de você, há gente que pode escolher Lula no 2º turno.
+- **[Comitês Populares](https://comitepopular.com.br)**: portal do movimento — registre seu comitê, solicite petições, divulgue eventos e acesse materiais por eixos temáticos.
+- **[Aplicativos da Virada](https://comitedetecnologia.com.br/)**: hub do Comitê de Tecnologia para encontrar, acessar e inscrever iniciativas digitais da campanha.
+- **[Vira-Voto 13 (app)](https://viravoto.lula.com.vc)**: indique 13 pessoas no WhatsApp em 3 encaminhamentos e ajude a virar votos no 2º turno.
+- **[Vamo Virar](https://vamovirar.app)**: organize panfletagens, bandeiraços e caminhadas do seu comitê e veja na hora quem confirma presença, sem expor agenda nem telefone. Código aberto.
+- **[Virada do Povo](https://viradadopovo.com.br)**: nos 10 dias antes do 2º turno, tarefas sincronizadas de criação e compartilhamento de conteúdo para criadores, ativistas e colaboradores.
+- **[Fortaleza Vai de Lula](https://fortalezavaidelula.lovable.app/)**: agenda de ruas, encontros e mobilizações em Fortaleza e região até 25 de outubro.
+- **[Mutirão DCOMP](https://felipequentino.github.io/mutirao/)**: mutirão independente de alunos da UFS/DCOMP para conversar com eleitores por bairro da Grande Aracaju.
+- **[Carona](https://carona.lula.com.vc)**: app de carona para o dia da votação — você escolhe a viagem, o motorista escolhe o preço.
+- **[Molduras Lula 13](https://lula.com.vc)**: coloque a moldura do 13 na sua foto de perfil do WhatsApp e das redes.
+- **[Empreendedor Vota 13](https://www.instagram.com/empreendedorvota13/)**: perfil no Instagram para diálogo com microempreendedores e trabalhadores autônomos.
+- **[Transporte de Eleitores – Jacobina](https://jacobina.blog/onibus.html)**: rotas e horários aproximados dos ônibus que circulam no dia da votação (46ª Zona Eleitoral, das 06h às 19h).
 
 ## Materiais de campanha
 
@@ -31,6 +42,22 @@ Compilado de iniciativas externas que ajudam na conversa e na mobilização.
 - **[Como isso me afeta?](https://como-isso-me-afeta.vercel.app/)**: medidas com números, autor e ano, lidas para a sua renda e a sua cidade (salário mínimo, IR, ICMS, programas sociais).
 - **[Cortes do Lula](https://cortesdolula.com.br)**: clipes prontos para baixar e compartilhar; serve também para compartilhar vídeos do gerador de cortes.
 - **[UM PIXEL](https://umpixel.com.br)**: visualiza de forma didática o tamanho do pedido de Flávio Bolsonaro a Daniel Vorcaro (1 pixel = R$ 100), tema do filme "Dark Horse".
+- **[Denuncie — censura digital](https://censuradigital.lula.com.br/)**: teve conteúdo removido ou conta restringida nas redes durante a eleição? Registre sua denúncia de censura digital.
+- **[Cartilha — furando o algoritmo](https://drive.google.com/file/d/1TQ8HcQGw1_hylIRUx-UZKK_kq06nr1G8/view?usp=sharing)** (PDF): como redefinir os algoritmos das redes e furar bolhas.
+- **[Mídia Vira Voto](https://midia-viravoto.vercel.app/)**: vídeos curtos prontos para baixar e espalhar nas redes.
+
+## Diálogo e argumentos
+
+- **[Conversa na Rua](https://conversanarua.netlify.app/)**: guia prático de abordagem — como puxar conversa com quem está em dúvida ou não votou no 1º turno, o que dizer e o que evitar.
+
+## Dados e comparação de planos
+
+- **[Voto Informado 2026](https://brasil-futuro.vercel.app/)**: compare as propostas dos candidatos à Presidência por tema, extraídas dos planos de governo oficiais.
+- **[Planos em Contexto](https://planos-em-contexto.pages.dev/)** ([código](https://github.com/sandinosantos/planos-em-contexto)): propostas e declarações públicas em contexto, com fontes e incertezas explícitas.
+- **[Balanço do governo Lula 2023–2026](https://votodopovo.com.br)**: realizações, resultados mensuráveis e pontos de atenção do terceiro mandato.
+- **[Quanto a 6x1 tira da sua vida?](https://vncsvr.github.io/quanto-a-6x1-tira/)**: coloque sua data de nascimento e veja quantos dias livres a escala 6x1 tira até a aposentadoria — a conta roda no seu celular, nada é enviado.
+- **[Dossiê — a rede internacional da extrema direita](https://vncsvr.github.io/dossie-extrema-direita/)**: mapa, linha do tempo e fontes das ligações entre a extrema direita brasileira e a internacional (1964–2026). Cada ligação abre a fonte original.
+- **[Urnas 2026 — análise georreferenciada](https://paineleleicoes2026.com.br)**: painel de análise georreferenciada das urnas das eleições 2026.
 
 ## Monitoramento das redes
 
@@ -39,6 +66,8 @@ Compilado de iniciativas externas que ajudam na conversa e na mobilização.
 ## Visualizações de dados
 
 - **[Lula × Flávio por município](https://ミ.xyz/dataviz/eleicoes/?eleicao=presidente-2026)**: mapa do 1º turno de 2026 por município, incluindo os 703 que trocaram de lado desde 2022.
+- **[Pauta da Urna](https://pautadaurna.com.br)**: quem não votou no 1º turno de 2026, onde vive e como alcançá-lo — TSE × IBGE por cidade, zona eleitoral e grupo.
+- **[Votos para vencer por local de votação](https://tatipara.github.io/vira_voto/)** ([código](https://github.com/tatipara/eleicao_2026_1turno)): cruza 2022 (2º turno) × 2026 (1º turno) e mostra, por local de votação, o menor número de votos novos que faz Lula vencer.
 
 
 ## Como contribuir
