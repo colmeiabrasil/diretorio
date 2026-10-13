@@ -37,6 +37,7 @@ Compilado de iniciativas externas que ajudam na conversa e na mobilização.
   [cards diversos](https://drive.google.com/drive/folders/1oSa5-tjPK49QcSjgeJ31tISyyW8G_3KM?usp=sharing) e
   [cards "Flávio IA"](https://drive.google.com/drive/folders/1LL83u-wmwW4J7czqzbf5Y5ftjax_i1Yr?usp=sharing).
 - **[Lambes do Dinelli](https://drive.proton.me/urls/YVEX225JP8#P688yZXq9VPF)**: artes de lambe-lambe para imprimir e colar.
+- **[Drivezão Eleitoral Dinamichi](https://drive.google.com/drive/folders/1LbYfXCnnI7-APqRltwTfp7GbAxsdbCnz)**: acervo compartilhado de materiais do 2º turno — cartazes (inclusive de IA), lambes, vídeos curtos e emotivos, guias de bolso em PDF e documentos de estratégia de militância.
 - **[Lula Responde](https://lularesponde.com.br/)**: descreva com quem você quer conversar (em quem vota e o que disse) e recebe argumentos com fontes e uma mensagem pronta para enviar; conversas anônimas, apagadas após 90 dias.
 - **[Brasil em Jogo](https://obrasilemjogo.com.br)**: por tema, o que Lula fez, como foi o governo anterior, o que cada candidato propõe e os indicadores — cada informação com documento de origem.
 - **[Como isso me afeta?](https://como-isso-me-afeta.vercel.app/)**: medidas com números, autor e ano, lidas para a sua renda e a sua cidade (salário mínimo, IR, ICMS, programas sociais).
