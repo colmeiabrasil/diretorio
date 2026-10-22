@@ -1,0 +1,1169 @@
+{
+  "fonte": "https://github.com/colmeiabrasil/diretorio",
+  "licenca": "CC0-1.0",
+  "total": 158,
+  "categorias": [
+    {
+      "id": "canais-oficiais",
+      "titulo": "Canais oficiais"
+    },
+    {
+      "id": "mobilizacao-da-sociedade",
+      "titulo": "Mobilização da Sociedade"
+    },
+    {
+      "id": "materiais-de-campanha",
+      "titulo": "Materiais de campanha"
+    },
+    {
+      "id": "dialogo-e-argumentos",
+      "titulo": "Diálogo e argumentos"
+    },
+    {
+      "id": "dados-e-comparacao-de-planos",
+      "titulo": "Dados e comparação de planos"
+    },
+    {
+      "id": "monitoramento-das-redes",
+      "titulo": "Monitoramento das redes"
+    },
+    {
+      "id": "visualizacoes-de-dados",
+      "titulo": "Visualizações de dados"
+    },
+    {
+      "id": "abstencao-e-virada-de-voto",
+      "titulo": "Abstenção e virada de voto"
+    },
+    {
+      "id": "jogos-e-quizzes",
+      "titulo": "Jogos e quizzes"
+    }
+  ],
+  "recursos": [
+    {
+      "categoria": "canais-oficiais",
+      "nome": "Site da campanha de Lula",
+      "url": "https://lula.com.br/",
+      "descricao": "reúne os grupos oficiais de WhatsApp da campanha.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "canais-oficiais",
+      "nome": "Canal do Lula no Telegram",
+      "url": "https://t.me/LulanoTelegram",
+      "descricao": "canal verificado.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "canais-oficiais",
+      "nome": "Canal do PT no WhatsApp",
+      "url": "https://whatsapp.com/channel/0029Va9GZPM8vd1ThwjXO91d",
+      "descricao": "canal oficial do Partido dos Trabalhadores.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "canais-oficiais",
+      "nome": "Exército de Lula (WhatsApp)",
+      "url": "https://whatsapp.com/channel/0029VbCbRfD7tkj88k3soZ0Y",
+      "descricao": "canal de mobilização para o 2º turno.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Vira Voto 13",
+      "url": "https://flow.page/viravoto",
+      "descricao": "links para grupos de mobilização no Telegram (estaduais e temáticos) e TikTok.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Onde dá pra conversar",
+      "url": "https://www.ondedapraconversar.com.br/",
+      "descricao": "mostra onde, perto de você, há gente que pode escolher Lula no 2º turno.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Comitês Populares",
+      "url": "https://comitepopular.com.br",
+      "descricao": "portal do movimento — registre seu comitê, solicite petições, divulgue eventos e acesse materiais por eixos temáticos.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Aplicativos da Virada",
+      "url": "https://comitedetecnologia.com.br/",
+      "descricao": "hub do Comitê de Tecnologia para encontrar, acessar e inscrever iniciativas digitais da campanha.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Vira-Voto 13 (app)",
+      "url": "https://viravoto.lula.com.vc",
+      "descricao": "indique 13 pessoas no WhatsApp em 3 encaminhamentos e ajude a virar votos no 2º turno.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Vamo Virar",
+      "url": "https://vamovirar.app",
+      "descricao": "organize panfletagens, bandeiraços e caminhadas do seu comitê e veja na hora quem confirma presença, sem expor agenda nem telefone. Código aberto.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Virada do Povo",
+      "url": "https://viradadopovo.com.br",
+      "descricao": "nos 10 dias antes do 2º turno, tarefas sincronizadas de criação e compartilhamento de conteúdo para criadores, ativistas e colaboradores.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Fortaleza Vai de Lula",
+      "url": "https://fortalezavaidelula.lovable.app/",
+      "descricao": "agenda de ruas, encontros e mobilizações em Fortaleza e região até 25 de outubro.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Mutirão DCOMP",
+      "url": "https://felipequentino.github.io/mutirao/",
+      "descricao": "mutirão independente de alunos da UFS/DCOMP para conversar com eleitores por bairro da Grande Aracaju.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Carona",
+      "url": "https://carona.lula.com.vc",
+      "descricao": "app de carona para o dia da votação — você escolhe a viagem, o motorista escolhe o preço.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Molduras Lula 13",
+      "url": "https://lula.com.vc",
+      "descricao": "coloque a moldura do 13 na sua foto de perfil do WhatsApp e das redes.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Empreendedor Vota 13",
+      "url": "https://www.instagram.com/empreendedorvota13/",
+      "descricao": "perfil no Instagram para diálogo com microempreendedores e trabalhadores autônomos.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Transporte de Eleitores – Jacobina",
+      "url": "https://jacobina.blog/onibus.html",
+      "descricao": "rotas e horários aproximados dos ônibus que circulam no dia da votação (46ª Zona Eleitoral, das 06h às 19h).",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Agenda Coletiva Campinas",
+      "url": "https://vaipaolla.com.br/agenda",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Agenda Popular",
+      "url": "https://agendapopular.pages.dev",
+      "descricao": "Uma plataforma gratuita para divulgar e organizar eventos e mobilizações por cidade e categoria. A ferramenta pode apoiar a campanha de reeleição do presidente Lula…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Ações 2º Turno (Agenda e Mapa)",
+      "url": "https://guipfranco.github.io/acoes-segundo-turno",
+      "descricao": "Ferramenta para encontrar e cadastrar ações de panfletagem, atos e mobilização perto do usuário.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Baixada Santista com Lula",
+      "url": "https://baixadasantistacomlula.com.br",
+      "descricao": "Plataforma de mobilização da Baixada Santista com cadastro de atividades, ações e comunidades digitais, com 10 mil membros.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Bora Lula",
+      "url": "https://boralula.org",
+      "descricao": "Captura eventos do Instagram com IA, conecta militantes, mostra pontos de materiais e coleta relatos do \"boca a boca\" para inteligência de campanha.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Carona solidária",
+      "url": "https://carona.casamarighella.com.br",
+      "descricao": "Plataforma de mobilização e coordenação de caronas solidárias para eleitores.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Criativos pela Virada",
+      "url": "https://criativospelavirada.vercel.app",
+      "descricao": "Oganização de trabalho em squads para a campanha…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Em Frente (Calendário de Atos)",
+      "url": "https://em-frente.com/calendario",
+      "descricao": "Plataforma e calendário para anúncio, busca e visualização no mapa de protestos e atos de rua pelo Brasil.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Fandoms pelo Brasil",
+      "url": "https://fandomspelobrasil.com",
+      "descricao": "Mobilização e organização de fanbases e fã-clubes para atos de rua.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "O Bafafá",
+      "url": "https://obafafa.com.br",
+      "descricao": "Rede social autônoma brasileira sem controle de algoritmo big tech para organização de grupos, chat e mural da militância.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Rota do Voto",
+      "url": "https://rotadovoto2026.com.br",
+      "descricao": "Site onde o eleitor informa onde está e a cidade em que vota, para conectar pessoas que vão para o mesmo destino e facilitar o deslocamento até a urna.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Segundo Turno com Lula",
+      "url": "https://segundoturnocomlula.com",
+      "descricao": "Plataforma de mobilização com tarefas diárias coordenadas no digital e no presencial, com comunidade de 20 mil membros.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Tech Contra Bolsonaro",
+      "url": "https://techcontrabolsonaro.dev",
+      "descricao": "A nossa comunidade criou o site techcontrabolsonaro.dev para apoiar na mobilização da galera da área de Tecnologia.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Tropa Vira Voto",
+      "url": "https://tropaviravoto.com/#inicio",
+      "descricao": "Plataforma de mobilização, engajamento e organização da militância para a virada de voto.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Vamos com Lula",
+      "url": "https://vamoscomlula.eita.coop.br",
+      "descricao": "Plataforma cooperativa de mobilização, organização e engajamento.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Vira Seguro",
+      "url": "https://vira-seguro.vercel.app",
+      "descricao": "O Vira Seguro (vira-seguro.vercel.app) é um kit de segurança gratuito para celular, feito para quem faz campanha de rua e vira-voto. Ele organiza o que…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "ViraVoto Rats",
+      "url": "https://viravotorats.vercel.app",
+      "descricao": "App no estilo GymRats para pequenos grupos de amigos, trabalho ou militância competirem de forma saudável registrando ações de virada de voto.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Voto em Movimento",
+      "url": "https://voto-em-movimento.vercel.app",
+      "descricao": "Plataforma de vaquinhas e auxílio de transporte para garantir o deslocamento de eleitores até a zona eleitoral.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "mobilizacao-da-sociedade",
+      "nome": "Voto Lá Fora",
+      "url": "https://votolafora.com.br",
+      "descricao": "Conecta quem pode oferecer uma carona ou um lugar para dormir a quem precisa chegar à urna. Aberto a qualquer eleitor.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Fura Bolha",
+      "url": "https://fura-bolha.com/",
+      "descricao": "biblioteca de vídeos curtos da eleição 2026, prontos para encaminhar no WhatsApp em um toque (\"Recebeu? Repassa\"), organizados por tema (trabalhador, mulheres, evangélicos, economia).",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Diretório 13",
+      "url": "https://www.diretorio13.com",
+      "descricao": "imagens, vídeos, comparativos entre governos, guias para conversar sobre a eleição e onde buscar materiais físicos.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Pastas no Google Drive para baixar e compartilhar",
+      "links": [
+        {
+          "nome": "vídeos verticais",
+          "url": "https://drive.google.com/drive/folders/1hJf8O-3ZnyrxDZR0-Lfcdl_PMJr3FBPe?usp=drive_link"
+        },
+        {
+          "nome": "vídeos de até 1 minuto",
+          "url": "https://drive.google.com/drive/folders/19qTtc19aq2EBocNYUYgqVFcE2oFNKzlY?usp=sharing"
+        },
+        {
+          "nome": "cards diversos",
+          "url": "https://drive.google.com/drive/folders/1oSa5-tjPK49QcSjgeJ31tISyyW8G_3KM?usp=sharing"
+        },
+        {
+          "nome": "cards \"Flávio IA\"",
+          "url": "https://drive.google.com/drive/folders/1LL83u-wmwW4J7czqzbf5Y5ftjax_i1Yr?usp=sharing"
+        }
+      ],
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Lambes do Dinelli",
+      "url": "https://drive.proton.me/urls/YVEX225JP8#P688yZXq9VPF",
+      "descricao": "artes de lambe-lambe para imprimir e colar.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Drivezão Eleitoral Dinamichi",
+      "url": "https://drive.google.com/drive/folders/1LbYfXCnnI7-APqRltwTfp7GbAxsdbCnz",
+      "descricao": "acervo compartilhado de materiais do 2º turno — cartazes (inclusive de IA), lambes, vídeos curtos e emotivos, guias de bolso em PDF e documentos de estratégia de militância.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Lula Responde",
+      "url": "https://lularesponde.com.br/",
+      "descricao": "descreva com quem você quer conversar (em quem vota e o que disse) e recebe argumentos com fontes e uma mensagem pronta para enviar; conversas anônimas, apagadas após 90 dias.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Brasil em Jogo",
+      "url": "https://obrasilemjogo.com.br",
+      "descricao": "por tema, o que Lula fez, como foi o governo anterior, o que cada candidato propõe e os indicadores — cada informação com documento de origem.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Como isso me afeta?",
+      "url": "https://como-isso-me-afeta.vercel.app/",
+      "descricao": "medidas com números, autor e ano, lidas para a sua renda e a sua cidade (salário mínimo, IR, ICMS, programas sociais).",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Cortes do Lula",
+      "url": "https://cortesdolula.com.br",
+      "descricao": "clipes prontos para baixar e compartilhar; serve também para compartilhar vídeos do gerador de cortes.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "UM PIXEL",
+      "url": "https://umpixel.com.br",
+      "descricao": "visualiza de forma didática o tamanho do pedido de Flávio Bolsonaro a Daniel Vorcaro (1 pixel = R$ 100), tema do filme \"Dark Horse\".",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Denuncie — censura digital",
+      "url": "https://censuradigital.lula.com.br/",
+      "descricao": "teve conteúdo removido ou conta restringida nas redes durante a eleição? Registre sua denúncia de censura digital.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Cartilha — furando o algoritmo",
+      "url": "https://drive.google.com/file/d/1TQ8HcQGw1_hylIRUx-UZKK_kq06nr1G8/view?usp=sharing",
+      "descricao": "como redefinir os algoritmos das redes e furar bolhas.",
+      "formato": "PDF",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Mídia Vira Voto",
+      "url": "https://midia-viravoto.vercel.app/",
+      "descricao": "vídeos curtos prontos para baixar e espalhar nas redes.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Acervo da vitória",
+      "url": "https://acervodavitoria.pages.dev",
+      "descricao": "Repositório com acervo de materiais, peças digitais e documentos da campanha.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Bora Lula",
+      "url": "https://bora-lula.online",
+      "descricao": "Materiais de mobilização para baixar ou compartilhar nas redes sociais.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Em Defesa da Democracia",
+      "url": "https://data2comms.com.br",
+      "descricao": "Acervo e repositório centralizado de conteúdos e dados para comunicação.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Lula Filtro",
+      "url": "https://lulafiltro.tbys.dev",
+      "descricao": "Gerador de molduras e aplicação de logos/frases da campanha sobre fotos dos apoiadores.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Mapa Segundo Turno",
+      "url": "https://mapasegundoturno.com.br",
+      "descricao": "Não fui eu quem desenvolvi, mas achei a ideia genial. São resumos de publicações contra o Flávio e a favor de Lula que dá pra…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Pode espalhar",
+      "url": "https://podeespalhar.com.br",
+      "descricao": "Materiais para compartilhamento nas redes sociais.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Sou do Bem",
+      "url": "https://soudobem.app",
+      "descricao": "Sou do Bem (soudobem.app) é um site para voluntários compartilharem conteúdo da campanha no status do WhatsApp com poucos toques. De manhã e à noite…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "materiais-de-campanha",
+      "nome": "Vira-Voto Media",
+      "url": "https://vira-voto-media.vercel.app",
+      "descricao": "Agregador de vídeos criados com Remotion onde trazem os planos do governo lula 2026 de forma resumida e de fácil consumo. A ideia é agragar…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Conversa na Rua",
+      "url": "https://conversanarua.netlify.app/",
+      "descricao": "guia prático de abordagem — como puxar conversa com quem está em dúvida ou não votou no 1º turno, o que dizer e o que evitar.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Adote um indeciso",
+      "url": "https://adoteumindeciso.com",
+      "descricao": "Guia para incentivar o diálogo e a conversão de eleitores indecisos.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Análise Eleitoral (Chatbot)",
+      "url": "https://analiseeleitoral.site",
+      "descricao": "Chatbot com propostas dos dois candidatos, histórico de governo, PECs e checagem de matérias da imprensa, mostrando como cada ponto afeta o eleitor.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Brasil Acima de Tudo",
+      "url": "https://brasilacimadetudo.netlify.app",
+      "descricao": "Guia do 2º turno: as duas missões e argumentos prontos, inclusive para o voto 70+.  Treino de conversa: chat com 9 personagens (tio…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Brasil Feliz de Novo",
+      "url": "https://brasil-feliz-de-novo.vercel.app",
+      "descricao": "Fiz um site com um vídeo simulando uma bolsonarista celebrando o fim de direitos da classe trabalhadora para comover indecisos.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Brasil Maior que Dois Lados",
+      "url": "https://brasilmaiorquedoislados.pages.dev",
+      "descricao": "Jornada personalizada em que o eleitor escolhe os temas que importam e vê fatos verificados sobre o que muda, o que está em risco, como votar e como cobrar.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Como vira voto",
+      "url": "https://comoviravoto.vercel.app",
+      "descricao": "Guia e ferramenta prática de orientação para militância e diálogo direto.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Confere Aí (IA Anti-Fake News)",
+      "url": "https://confere-ai-five.vercel.app",
+      "descricao": "App com IA que checa veracidade de notícias, consulta histórico eleitoral e rastreia dados de deputados.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Conversa que muda",
+      "url": "https://conversaquemuda.com",
+      "descricao": "Roteiros e simulações para treinar conversas respeitosas e persuasivas.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Crimeta Russa",
+      "url": "https://crimetarussa.com/",
+      "descricao": "roleta documental que sorteia 27 casos de denúncias, investigações e episódios da trajetória pública de Flávio Bolsonaro, com contexto, status de cada caso e fontes para consulta, além de imagens prontas para compartilhamento.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Curadoria Vira Voto",
+      "url": "https://acervolula13.lovable.app",
+      "descricao": "Curadoria com materiais selecionados para apoiar a campanha do Lula e ajudar na conversa com diferentes eleitores.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Desmascara Brasil",
+      "url": "https://desmascarabrasil.com",
+      "descricao": "Desenvolvi o *Desmascara Brasil*, uma plataforma de combate à desinformação que permitirá receber denúncias de notícias suspeitas, vídeos, imagens e conteúdos compartilhados nas redes sociais.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Do seu bolso",
+      "url": "https://doseubolso.com.br",
+      "descricao": "Calculadora para saber quanto custariam os remédios que a pessoa recebe gratuitamente hoje com a Farmácia Popular.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Efeito Tesouraço",
+      "url": "https://efeito-tesouraco-aaf85f.vercel.app/",
+      "descricao": "simula, estado por estado, quanto a renda dos municípios do interior pode perder até 2029 com o congelamento de Bolsa Família, BPC e aposentadorias proposto por Flávio Bolsonaro, com base na Nota de Política Econômica nº 90 do Made/USP.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Escolha Fácil",
+      "url": "https://escolhafacil.online",
+      "descricao": "O Escolha fácil (escolhafacil.online) é um site de linguagem simples e com fonte que mostra, por perguntas do dia a dia, por que votar 13…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Falas de Flavio",
+      "url": "https://flaviofalou.netlify.app",
+      "descricao": "Compilado e acervo de declarações e posicionamentos para argumentação.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Futuro BR Revisão",
+      "url": "https://futurobr-revisao.netlify.app",
+      "descricao": "Comparador de programas de governo destacando os impactos diretos no país de acordo com o perfil do eleitor.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Guia de Denúncia Flávio",
+      "url": "https://guiadenunciaflavio.github.io",
+      "descricao": "página estática com as provas documentadas do caso rachadinhas, para argumentação.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Ideias em comum",
+      "url": "https://ideiasemcomum.com",
+      "descricao": "Ferramenta que compara e mostra as semelhanças das propostas de candidatos do 1º turno com as do Lula.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Na Ponta do Lápis",
+      "url": "https://napontadolapis.org",
+      "descricao": "Comparativo com fontes entre planos de governo e legados de Lula/Dilma, Temer e Bolsonaro, com linguagem neutra e acessível para indecisos.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Nunca Mais",
+      "url": "https://nuncamais.vercel.app",
+      "descricao": "Site que reúne os principais pontos negativos de Flávio Bolsonaro, com ferramentas de compartilhamento via WhatsApp/Instagram e gerador de PDF com QR Code.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "O Poder do Seu Voto",
+      "url": "https://opoderdoseuvoto.github.io",
+      "descricao": "site de argumento e checagem contra narrativas falsas, sem cadastro e sem coleta de dados.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "O que está em jogo",
+      "url": "https://o-que-esta-em-jogo.vercel.app",
+      "descricao": "Conteúdo informativo sobre os impactos e consequências do pleito eleitoral.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "O que está em jogo na sua cidade",
+      "url": "https://oqueestaemjogo.ascaribe.tech",
+      "descricao": "Ferramenta interativa para consultar serviços públicos do município e os impactos de políticas federais por cidade ou CEP.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "OpenMaster",
+      "url": "https://open-master-delta.vercel.app",
+      "descricao": "Acompanhamento independente do caso Banco Master. Projeto open source.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Patrão 6x1",
+      "url": "https://humanidadesdigitais.com.br",
+      "descricao": "Chatbot satírico de IA que interpreta um patrão contrário à redução da jornada, para gerar conteúdo bem-humorado sobre o fim da escala 6x1 nas redes.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Promessas e Registros",
+      "url": "https://fatos-bolsonaro.github.io/Promessas-e-Registros",
+      "descricao": "Agrega promessas do governo Bolsonaro e deixa evidente, através de fontes, o que foi cumprido.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Páginas Temáticas Mobilização",
+      "url": "https://naovaidebet.github.io",
+      "descricao": "Páginas informativas focadas em temas sensíveis e de grande apelo popular (ex: regulação de apostas/bets).",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Quem compara vota Lula",
+      "url": "https://quemcomparavotalula13.netlify.app",
+      "descricao": "Ferramenta comparativa de propostas, dados e histórico de governo.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Risco Real",
+      "url": "https://riscoreal.com.br",
+      "descricao": "Uma página para mostrar de forma pratica o impacto real do prospecto dos dois governos em cada ponto de preocupação do eleitor…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Seu voto decide",
+      "url": "https://seuvotodecide.com.br",
+      "descricao": "Guias, jogos interativos, pautas checadas e sugestões de roteiro para que qualquer pessoa possa gravar e compartilhar conversas e depoimentos com familiares, amigos ou em suas redes sociais.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Tesoura no Comércio",
+      "url": "https://tesouranocomercio.pplx.app",
+      "descricao": "Simulador do impacto de cortes no Bolsa Família, BPC e INSS sobre o comércio local e os MEIs dos municípios de Minas Gerais.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Verdade ou Boato / Radar Esquerdista",
+      "url": "https://verdade-ou-boato-eleicoes26.netlify.app",
+      "descricao": "Plataforma de verificação de boatos/fake news e agenda centralizada de manifestações/atividades locais.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Vira Lula IA (Furando a Bolha)",
+      "url": "https://levops.cc/publico/furando_a_bolha/viralulaia",
+      "descricao": "Bot de IA que gera argumentos para conversas de virada de voto.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Vote Consciente",
+      "url": "https://voteconsciente.github.io/eleicoes2026",
+      "descricao": "Uma landing page voltada a centralizar todas as informações principais que devemos mostrar aos mais afetados: idosos, aos que absteram e aos que procuram por…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Vote Sabendo",
+      "url": "https://votesabendo.com.br",
+      "descricao": "Guia que explica o que cada cargo político faz e quem resolve os problemas da cidade.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Voto Sem Dono",
+      "url": "https://votosemdono.pages.dev",
+      "descricao": "Comparativo neutro de propostas de governo para atrair e engajar eleitores indecisos e abstêmios.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dialogo-e-argumentos",
+      "nome": "Voto às Cegas",
+      "url": "https://votoascegas.com.br",
+      "descricao": "Aplicação onde o eleitor escolhe propostas sem saber a autoria do candidato, neutralizando viés ideológico.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "dados-e-comparacao-de-planos",
+      "nome": "Voto Informado 2026",
+      "url": "https://brasil-futuro.vercel.app/",
+      "descricao": "compare as propostas dos candidatos à Presidência por tema, extraídas dos planos de governo oficiais.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "dados-e-comparacao-de-planos",
+      "nome": "Planos em Contexto",
+      "url": "https://planos-em-contexto.pages.dev/",
+      "descricao": "propostas e declarações públicas em contexto, com fontes e incertezas explícitas.",
+      "codigo": "https://github.com/sandinosantos/planos-em-contexto",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "dados-e-comparacao-de-planos",
+      "nome": "Balanço do governo Lula 2023–2026",
+      "url": "https://votodopovo.com.br",
+      "descricao": "realizações, resultados mensuráveis e pontos de atenção do terceiro mandato.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "dados-e-comparacao-de-planos",
+      "nome": "Quanto a 6x1 tira da sua vida?",
+      "url": "https://vncsvr.github.io/quanto-a-6x1-tira/",
+      "descricao": "coloque sua data de nascimento e veja quantos dias livres a escala 6x1 tira até a aposentadoria — a conta roda no seu celular, nada é enviado.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "dados-e-comparacao-de-planos",
+      "nome": "Dossiê — a rede internacional da extrema direita",
+      "url": "https://vncsvr.github.io/dossie-extrema-direita/",
+      "descricao": "mapa, linha do tempo e fontes das ligações entre a extrema direita brasileira e a internacional (1964–2026). Cada ligação abre a fonte original.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "dados-e-comparacao-de-planos",
+      "nome": "Urnas 2026 — análise georreferenciada",
+      "url": "https://paineleleicoes2026.com.br",
+      "descricao": "painel de análise georreferenciada das urnas das eleições 2026.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "monitoramento-das-redes",
+      "nome": "Monitor da Virada",
+      "url": "https://monitor.boralula.org/",
+      "descricao": "painel Looker Studio com indicadores de acompanhamento do 2º turno.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "monitoramento-das-redes",
+      "nome": "Radar da Virada",
+      "url": "https://radardavirada.pages.dev/",
+      "descricao": "o que está em alta agora no X, Google, TikTok e YouTube, dos dois lados, e o que fazer com isso. Atualizado ao vivo até o 2º turno.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Lula × Flávio por município",
+      "url": "https://mi.xyz/dataviz/eleicoes/?eleicao=presidente-2026",
+      "descricao": "mapa do 1º turno de 2026 por município, incluindo os 703 que trocaram de lado desde 2022.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Pauta da Urna",
+      "url": "https://pautadaurna.com.br",
+      "descricao": "quem não votou no 1º turno de 2026, onde vive e como alcançá-lo — TSE × IBGE por cidade, zona eleitoral e grupo.",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Votos para vencer por local de votação",
+      "url": "https://tatipara.github.io/vira_voto/",
+      "descricao": "cruza 2022 (2º turno) × 2026 (1º turno) e mostra, por local de votação, o menor número de votos novos que faz Lula vencer.",
+      "codigo": "https://github.com/tatipara/eleicao_2026_1turno",
+      "origem": "colmeia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "A Batalha dos Influs",
+      "url": "https://batalhadosinflus.the-mojo.studio",
+      "descricao": "Contagem ao vivo de declarações (ou não) de voto de influenciadores e links para seus perfis.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Amigos do Flávio",
+      "url": "https://amigosdoflavio.com",
+      "descricao": "Site com as amizades e relações do Flavinho Desmaio…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Análise Cuiabá Votos",
+      "url": "https://noguerabreno.github.io/analisecuiabavotos",
+      "descricao": "SPA indicando seções, bairros e zonas eleitorais em Cuiabá comparando dados de 2024 e 2026.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Análise de Esforço por Bairros",
+      "url": "https://rafadaguia.github.io/analise-de-esforco-por-bairros-lula-2026",
+      "descricao": "Mapeamento tático, relatórios e tabelas que apontam bairros e cidades onde o esforço de campanha rende mais votos.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Atlas Dado Popular",
+      "url": "https://dadopopular.com.br/atlas",
+      "descricao": "Ferramenta de inteligência visual de dados legislativos e da corrida presidencial em tempo real.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Compara Brasil",
+      "url": "https://comparabrasil.app",
+      "descricao": "Indicadores públicos para comparar dados, baixar ou compartilhar o desempenho dos governos Lula e Bolsonaro.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Dados da Virada",
+      "url": "https://dadosdavirada.up.railway.app",
+      "descricao": "Base aberta que organiza e conecta os dados de outras iniciativas da campanha. Hoje reúne os 143 materiais da Curadoria Vira Voto, classificados por perfil…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Eleições RJ",
+      "url": "https://eleicoes-rj.streamlit.app",
+      "descricao": "Aplicação que busca dados do tse de todas as cidades do Rio e trata. Gera 3 pdfs: Um com dados gráficos e comparativos Lula x…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Fortaleza nas Urnas",
+      "url": "https://fortalezanasurnas.netlify.app",
+      "descricao": "Portal mostrando o panorama eleitoral e votação por áreas no município de Fortaleza.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Fortaleza por Lula",
+      "url": "https://fortalezaporlula.netlify.app",
+      "descricao": "Painel tático para orientar a militância em Fortaleza sobre áreas prioritárias de panfletagem e diálogo.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Ganha Voto",
+      "url": "https://ganhavoto.htmly.com.br",
+      "descricao": "Análise cruzada das urnas de 2022 vs 2026 para identificar seções e locais com maior potencial de crescimento de votos.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Lab Livre Amazonia",
+      "url": "https://lablivreamazonia.com.br/belem",
+      "descricao": "Dados que detalha os resultados das Eleições 2026 em Belém (PA), mostrando a votação por local e seção eleitoral.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Lula x Bolsonaro",
+      "url": "https://lulaxbolsonaro.com",
+      "descricao": "Plataforma que compara indicadores socioeconômicos dos governos Lula e Bolsonaro.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Mapa da virada",
+      "url": "https://mapadavirada26.com",
+      "descricao": "Mapeamento que indica onde estão os votos em abstenções e candidatos eliminados para virada eleitoral. Além de vídeos e cards para baixar, compartilhar no WhatsApp e Instagram.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Mapa de Abstenção por Bairro",
+      "url": "https://leosuricate.com.br/analises",
+      "descricao": "Mapa de abstenção granularizado por bairro para poder decidir aonde focar o vira voto com ação de rua…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Mapa de Oportunidade",
+      "url": "https://mapa-vira-voto.eleitoral.org.br",
+      "descricao": "Mapeamento territorial de oportunidades para virada de voto.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Mapa do 2º Turno",
+      "url": "https://mapa-segundo-turno.web.app",
+      "descricao": "Cruza resultados do TSE de 2018, 2022 e 2026, perfil do eleitorado e Bolsa Família nos 5.570 municípios, agrupados em 8 perfis, indicando onde persuadir, mobilizar ou defender a base.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Mapa do Voto João Monlevade",
+      "url": "https://mapadovotojm.pplx.app",
+      "descricao": "Mapa urna por urna das eleições em João Monlevade (MG), cruzando votação, perfil socioeconômico e serviços federais a até 1 km de cada local de votação.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Mapa Duplas",
+      "url": "https://mapa-duplas.vercel.app",
+      "descricao": "Mapa nacional com dados da votação do primeiro turno cruzados com informações demograficas e associando a impactos reais e propostas do Governo Lula. Ajuda a…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Mapeamento de Zonas Prioritárias (SP)",
+      "url": "https://claude.ai/artifact/Fm6yiV6cYYBEmk4AsSWpbh",
+      "descricao": "Mapeamento de zonas eleitorais prioritárias cruzadas com votação da base aliada e pontos de interesse (expansível de SP para o país).",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Meu Voto Brasil",
+      "url": "https://meuvotobrasil.com",
+      "descricao": "Criei um portal de dados eleitorais de 2022 e 2026 para todo o Brasil. Dados eleitorais bairro a bairro, local por local de votação. Mapeando…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Momo com Lula",
+      "url": "https://appmomo.com.br/guides/momo-com-lula",
+      "descricao": "Faço parte do desenvolvimento de um app social de descoberta cultural no estado do Rio de Janeiro. Mapeamos diariamente o que acontece na cidade a…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Monitor de Narrativas Eleições 2026",
+      "url": "https://eleicoes2026.dashboard.adsray.clusterlab.lappis.rocks/analise",
+      "descricao": "Painel que monitora narrativas da imprensa nas eleições de 2026, tendências, possível desinformação e atores mais citados.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "O Brasil mudou?",
+      "url": "https://nadamudou.com.br",
+      "descricao": "Comparar os governos Bolsonaro e Lula III.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "O Mapa do Flávio",
+      "url": "https://omapadoflavio.com",
+      "descricao": "Aplicação com mapa interativo de conexões expondo as relações, aliados e investigações do candidato opositor.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "O Voto Decisivo",
+      "url": "https://ovotodecisivo.com",
+      "descricao": "Mapa de calor com potencial de resgate de abstenções por zona do TSE e gerador de argumentos locais com IA para o WhatsApp.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Observatório Tech",
+      "url": "https://observatorio.tech",
+      "descricao": "Um observatório popular de dados eleitorais comparando os locais críticos de perda de votos do Lula do primeiro turno de 2022 para o primeiro turno…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Onde Buscar Votos - Contradados",
+      "url": "https://contradados.online",
+      "descricao": "Onde Buscar Votos - Contradados. É Um site com análise de dados e estratégias para buscar votos para Lula até o segundo turno. Com roteiros…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Onde Panfletar",
+      "url": "https://ondepanfletar.com",
+      "descricao": "Mapeamento de zonas prioritárias para panfletar nas cidades com base na perda de votos do Lula entre 22 e 26.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Quem apoia quem",
+      "url": "https://quemapoiaquem.com.br",
+      "descricao": "O posicionamento nas redes sociais de figuras públicas…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Radar Ceará",
+      "url": "https://radar-ceara.pages.dev",
+      "descricao": "Um site que monitora redes sociais da imprensa em geral e perfis determinados para ajudar na coordenação e atuação da campanha…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Radar do Voto",
+      "url": "https://radardovoto.app.br",
+      "descricao": "Painéis com votação e comparativo com 2022 nos níveis de brasil, estado, município e locais de votação.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Vira Voto DF",
+      "url": "https://viravoto.coletivo.net.br",
+      "descricao": "Plataforma aberta e replicável que cruza dados eleitorais e do Censo no Distrito Federal (em construção).",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Voto Vizinho",
+      "url": "https://voto-vizinho.momoi-labs.dev",
+      "descricao": "Mapa interativo que analisa dados abertos do TSE por endereço/CEP indicando locais com alta abstenção no bairro.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "visualizacoes-de-dados",
+      "nome": "Índice de Potencial de Conversão (IPC)",
+      "url": "https://script.google.com/macros/s/AKfycbw1mNGQSUD5eS7l0TvAK20URcnB-EUxoePfcm8feAC6RhReoVSqlNIBIASWL-1zGxnadA/exec",
+      "descricao": "Painel com dados do TSE que calcula o potencial de conversão de votos por município, zona e seção, com mapa, gráficos, filtros e ranking.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "abstencao-e-virada-de-voto",
+      "nome": "Devo Votar",
+      "url": "https://devovotar.com.br",
+      "descricao": "um website que mostra mensagens de incentivo a pessoas que abstiveram no 1ª turno, a ideia é ser algo simples e fácil de compartilhar que…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "abstencao-e-virada-de-voto",
+      "nome": "Dá pra virar",
+      "url": "https://dapravirar.org",
+      "descricao": "Visualização e monitoramento de números de abstenção e metas de virada.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "abstencao-e-virada-de-voto",
+      "nome": "Eu Vou Votar",
+      "url": "https://euvouvotar.com.br",
+      "descricao": "Central de orientações neutras sobre local de votação, regularização de título e combate ao abstencionismo.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "abstencao-e-virada-de-voto",
+      "nome": "Nordeste Decide",
+      "url": "https://nordeste-decide.vercel.app",
+      "descricao": "O Nordeste Decide é um aplicativo web pensado para celulares, criado por apoiadores e inspirado na minha origem nordestina. A proposta é mobilizar os cerca…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "abstencao-e-virada-de-voto",
+      "nome": "Vamos Votar",
+      "url": "https://vamosvotar.vercel.app",
+      "descricao": "Web app de combate à abstenção no 2º turno, montagem de plano de votação individual e mobilização em corrente no WhatsApp.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "abstencao-e-virada-de-voto",
+      "nome": "Vira Votos",
+      "url": "https://viravoto13.com.br",
+      "descricao": "Lista os locais de votação da cidade e filtra onde dá para virar voto (alta abstenção, eleitores 70+ e perda de votos desde 2022), com perfil do eleitor e sugestões do que falar.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "abstencao-e-virada-de-voto",
+      "nome": "Virada no bairro",
+      "url": "https://viradanobairro.app",
+      "descricao": "Mapa para encontrar onde dá para virar voto, as brigadas da região e informações de como conversar, dados comparativos dos governos de Lula III e Bolsonaro e respostas para as dúvidas dos eleitores.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "abstencao-e-virada-de-voto",
+      "nome": "Virar Voto 13 & Jogo Será?",
+      "url": "https://virarvoto13.com.br",
+      "descricao": "Painel de votação por bairro no 1º turno com roteiros de conversa e o mini-game interativo \"Será?\" para indecisos/nulos.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "jogos-e-quizzes",
+      "nome": "Baralho interativo",
+      "url": "https://baralhointerativo.netlify.app",
+      "descricao": "Jogo interativo onde a pessoa julga frases políticas/econômicas como \"bom\" ou \"ruim\" para descobrir com quais ideias e figuras públicas se identifica.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "jogos-e-quizzes",
+      "nome": "Brasil em Jogo",
+      "url": "https://brasilemjogo.ariu.com.br",
+      "descricao": "Jogo estilo novela visual sobre 4 moradores de bairro popular para tomada de decisões sobre programas sociais e políticas públicas.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "jogos-e-quizzes",
+      "nome": "Brasil Melhor",
+      "url": "https://brasil-melhor.vercel.app",
+      "descricao": "Quiz onde a pessoa insere seus valores e vê o alinhamento com as propostas do governo Lula.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "jogos-e-quizzes",
+      "nome": "Qual Seu Flávio",
+      "url": "https://qualseuflavio.com",
+      "descricao": "Jogo interativo de engajamento e conscientização.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "jogos-e-quizzes",
+      "nome": "Quiz de Políticas Públicas",
+      "url": "https://incomparable-parfait-0c4bc1.netlify.app",
+      "descricao": "Quiz interativo para WhatsApp sobre as principais políticas do governo direcionado a indecisos e público sênior.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "jogos-e-quizzes",
+      "nome": "Super Flávio World",
+      "url": "https://superflavio.com",
+      "descricao": "Jogo interativo de engajamento e conscientização.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "jogos-e-quizzes",
+      "nome": "Super Lula World",
+      "url": "https://super-lula-world.github.io",
+      "descricao": "Jogo interativo de engajamento e conscientização.",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "jogos-e-quizzes",
+      "nome": "Vira Vira BR",
+      "url": "https://viravirabr.com.br",
+      "descricao": "Jogo educativo no qual o jogador coleta informações e fatos sobre crimes e projeto de governo de ambos os candidatos, o objetivo é virar votos…",
+      "origem": "hub-comite-tecnologia"
+    },
+    {
+      "categoria": "jogos-e-quizzes",
+      "nome": "Vira Voto (Jogo de Persuasão)",
+      "url": "https://vira.voto",
+      "descricao": "Jogo de perguntas e respostas baseado em teorias de persuasão e enquadramento (Lakoff) para virada de votos em conversas curtas.",
+      "origem": "hub-comite-tecnologia"
+    }
+  ]
+}

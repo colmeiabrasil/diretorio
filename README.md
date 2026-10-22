@@ -4,6 +4,8 @@
 
 Compilado de iniciativas externas que ajudam na conversa e na mobilização. Boa parte das entradas desta página é um compilado do hub [Aplicativos da Virada](https://comitedetecnologia.com.br/) do **Comitê Popular do Lula de Tecnologia** (consulta de 2026-10-13); veja também a seção [Créditos e fontes](#creditos-e-fontes).
 
+<!-- catalogo:inicio — gerado por scripts/gerar.py a partir de data/recursos.yaml; não edite à mão -->
+
 ## Canais oficiais
 
 - **[Site da campanha de Lula](https://lula.com.br/)**: reúne os grupos oficiais de WhatsApp da campanha.
@@ -14,7 +16,7 @@ Compilado de iniciativas externas que ajudam na conversa e na mobilização. Boa
 ## Mobilização da Sociedade
 
 - **[Vira Voto 13](https://flow.page/viravoto)**: links para grupos de mobilização no Telegram (estaduais e temáticos) e TikTok.
-- **[Onde dá pra conversar](https://www.ondedapraconversar.com.br/)** mostra onde, perto de você, há gente que pode escolher Lula no 2º turno.
+- **[Onde dá pra conversar](https://www.ondedapraconversar.com.br/)**: mostra onde, perto de você, há gente que pode escolher Lula no 2º turno.
 - **[Comitês Populares](https://comitepopular.com.br)**: portal do movimento — registre seu comitê, solicite petições, divulgue eventos e acesse materiais por eixos temáticos.
 - **[Aplicativos da Virada](https://comitedetecnologia.com.br/)**: hub do Comitê de Tecnologia para encontrar, acessar e inscrever iniciativas digitais da campanha.
 - **[Vira-Voto 13 (app)](https://viravoto.lula.com.vc)**: indique 13 pessoas no WhatsApp em 3 encaminhamentos e ajude a virar votos no 2º turno.
@@ -65,7 +67,6 @@ Compilado de iniciativas externas que ajudam na conversa e na mobilização. Boa
 - **[Denuncie — censura digital](https://censuradigital.lula.com.br/)**: teve conteúdo removido ou conta restringida nas redes durante a eleição? Registre sua denúncia de censura digital.
 - **[Cartilha — furando o algoritmo](https://drive.google.com/file/d/1TQ8HcQGw1_hylIRUx-UZKK_kq06nr1G8/view?usp=sharing)** (PDF): como redefinir os algoritmos das redes e furar bolhas.
 - **[Mídia Vira Voto](https://midia-viravoto.vercel.app/)**: vídeos curtos prontos para baixar e espalhar nas redes.
-
 - **[Acervo da vitória](https://acervodavitoria.pages.dev)**: Repositório com acervo de materiais, peças digitais e documentos da campanha.
 - **[Bora Lula](https://bora-lula.online)**: Materiais de mobilização para baixar ou compartilhar nas redes sociais.
 - **[Em Defesa da Democracia](https://data2comms.com.br)**: Acervo e repositório centralizado de conteúdos e dados para comunicação.
@@ -78,7 +79,6 @@ Compilado de iniciativas externas que ajudam na conversa e na mobilização. Boa
 ## Diálogo e argumentos
 
 - **[Conversa na Rua](https://conversanarua.netlify.app/)**: guia prático de abordagem — como puxar conversa com quem está em dúvida ou não votou no 1º turno, o que dizer e o que evitar.
-
 - **[Adote um indeciso](https://adoteumindeciso.com)**: Guia para incentivar o diálogo e a conversão de eleitores indecisos.
 - **[Análise Eleitoral (Chatbot)](https://analiseeleitoral.site)**: Chatbot com propostas dos dois candidatos, histórico de governo, PECs e checagem de matérias da imprensa, mostrando como cada ponto afeta o eleitor.
 - **[Brasil Acima de Tudo](https://brasilacimadetudo.netlify.app)**: Guia do 2º turno: as duas missões e argumentos prontos, inclusive para o voto 70+.  Treino de conversa: chat com 9 personagens (tio…
@@ -195,9 +195,15 @@ Compilado de iniciativas externas que ajudam na conversa e na mobilização. Boa
 - **[Vira Vira BR](https://viravirabr.com.br)**: Jogo educativo no qual o jogador coleta informações e fatos sobre crimes e projeto de governo de ambos os candidatos, o objetivo é virar votos…
 - **[Vira Voto (Jogo de Persuasão)](https://vira.voto)**: Jogo de perguntas e respostas baseado em teorias de persuasão e enquadramento (Lakoff) para virada de votos em conversas curtas.
 
+<!-- catalogo:fim -->
+
 ## Créditos e fontes
 
 O catálogo reúne iniciativas de **criadores e equipes independentes**, compiladas pelo Diretório da Colmeia. A maior parte desta lista vem do hub [Aplicativos da Virada](https://comitedetecnologia.com.br/) do **Comitê Popular do Lula de Tecnologia** (consulta de 2026-10-13); cada site e material externo mantém seus próprios direitos e condições de uso. O diretório completo daquela base, com todas as fichas, está na [wiki da Colmeia](https://github.com/colmeiabrasil/wiki) em `analises/BR/2026-10-13-iniciativas-hub-comite-tecnologia.md`.
+
+## Dados estruturados
+
+A fonte do catálogo é [`data/recursos.yaml`](data/recursos.yaml). As seções acima e o arquivo [`data/recursos.json`](data/recursos.json) são gerados a partir dela por [`scripts/gerar.py`](scripts/gerar.py). Chatbots e outras aplicações podem ler o JSON direto em `https://raw.githubusercontent.com/colmeiabrasil/diretorio/main/data/recursos.json`, sem autenticação.
 
 ## Como contribuir
 

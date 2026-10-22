@@ -3,7 +3,7 @@
 Sugestões são bem-vindas, sem convite ou vínculo com a Colmeia.
 
 - Abra uma [issue](https://github.com/colmeiabrasil/diretorio/issues/new) para sugerir um recurso, avisar sobre um link quebrado ou propor uma categoria.
-- Para editar, faça um fork, altere `README.md` e envie um Pull Request para este repositório.
+- Para editar, faça um fork, altere `data/recursos.yaml`, rode `python3 scripts/gerar.py` (requer PyYAML) e envie um Pull Request com os arquivos gerados. Não edite o catálogo direto no `README.md`: a verificação automática do Pull Request falha se ele divergir do YAML.
 - Use as [discussões](https://github.com/colmeiabrasil/diretorio/discussions) para ideias e perguntas.
 
 Inclua o nome da iniciativa, seu link oficial e uma frase sobre o que oferece. Escolha a categoria mais próxima. Prefira recursos que possam ser consultados sem autenticação; informe eventuais restrições de acesso.
